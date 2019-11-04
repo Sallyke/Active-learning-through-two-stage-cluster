@@ -7,12 +7,19 @@ Results demonstrate that the new algorithm has higher classification accuracy wi
 Index Terms—Active learning; data preprocessing; two-roundclustering; density clustering.
 
 @inproceedings{wang2018active,
+
   title={Active learning through two-stage clustering},
-  author={Wang, Min and Fu, Ke and Min, Fan},
+  
+  author={Wang Min and Fu Ke and Min Fan},
+  
   booktitle={2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)},
+  
   pages={1--7},
+  
   year={2018},
+  
   organization={IEEE}
+  
 }
 
 JAVA
